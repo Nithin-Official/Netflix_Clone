@@ -1,0 +1,16 @@
+.overview{
+    width: 50%;
+    height: 30px;
+    line-height: 20px;
+}
+.banner{
+    margin: 60px;
+    padding: 20px;
+    height: 500px;
+    background-size: cover;
+}
+.title{
+    margin-left: 30px;
+    margin-top: 300px;
+}
+
